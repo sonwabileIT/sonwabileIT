@@ -4,12 +4,18 @@ I'm an aspiring software developer based in South Africa. I have an interest in 
 
 I have been using Linux (Ubuntu) as my main development environment for over a year.
 
+### Social Links
+
+[<img align="left" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sonwabileit.github.io/my-portfolio/)
+
+[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](www.linkedin.com/in/sonwabile-gxoyiya-b005b123a)
+          
+
 ---
 
 ### Operating System
 
-<img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<br/>          
+<img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />       
 
 ### Languages
 
@@ -40,7 +46,6 @@ I have been using Linux (Ubuntu) as my main development environment for over a y
 
 ### Other Tools
 
-
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 
@@ -52,7 +57,5 @@ I have been using Linux (Ubuntu) as my main development environment for over a y
 
 <img alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
-
-<br/>  
           
 ---
