@@ -1,6 +1,6 @@
 # SonwabileIT
 
-I'm an aspiring software developer based in South Africa. I have an interest in the world of software development. I am currently learning to create Web Apps with Angular + Tailwind CSS. 
+I'm an aspiring software developer based in South Africa. I have an interest in the world of software development. I am currently learning to create Web Apps with Angular + Tailwind CSS. I am currently learning React.js.
 
 I have been using Linux (Ubuntu) as my main development environment for over a year.
 
@@ -34,7 +34,7 @@ I have been using Linux (Ubuntu) as my main development environment for over a y
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 
-<img alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 
 ### Frameworks
