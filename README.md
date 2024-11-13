@@ -6,7 +6,7 @@ I have been using Linux (Ubuntu) as my main development environment for over a y
 
 ### Social Links
 
-[<img align="left" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sonwabileit.github.io/my-portfolio/)
+[<img align="left" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sonwabileit.github.io/react-portfolio-website/)
 
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/sonwabile-gxoyiya-b005b123a/)
           
