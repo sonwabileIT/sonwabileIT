@@ -15,34 +15,54 @@ I have been using Linux (Ubuntu) as my main development environment for over a y
 
 ### Operating System
 
-<img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />       
+<div style="border: 1px solid; display: inline-block; padding: 5px 10px; border-radius: 10px">
+<div style="display: flex; padding: 5px 2px">
+    <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
+    <h3 style="padding: 0px 5px; margin: 13px 10px 0px 10px">Ubuntu 22.04</h3>
+    </div>
+</div>
 
 ### Languages
 
-<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<div style="display: flex; column-gap: 5px">
 
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img align="left" alt="HTML5" width="50px" style="padding: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</div>
 
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img align="left" alt="CSS" width="50px" style="padding: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
 
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img align="left" alt="JavaScript" width="50px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img align="left" alt="TypeScript" width="50px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</div>
           
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img align="left" alt="Java" width="50px" style="padding: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</div>
 
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img alt="React" width="50px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
 
-
-<img alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
+</div>
 
 ### Frameworks
 
-<img align="left" alt="Angular" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<div style="display: flex; column-gap: 5px">
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img align="left" alt="Angular" width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+</div>
 
-<img width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-          
+<div style="border: 1px solid; display: inline-block; padding: 5px; border-radius: 10px">
+    <img width="60px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
+</div>   
 
 ### Other Tools
 
